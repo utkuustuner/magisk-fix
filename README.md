@@ -10,4 +10,4 @@ A10 20.2 is recommended for initial booting of android 10 gsis.
 
 tbh I don't know why anyone would go lower than these versions but these are the hard floors
 
-versions after 21.2 have some changes that makes apps recognize device arch as armvl8 instead of aarch64, you'd care about this if you're running a chroot envoirement inside android
+versions after 21.2 have some changes that makes apps recognize device arch as armvl8 instead of aarch64, you'd care about this if you're running a chroot environment inside android
